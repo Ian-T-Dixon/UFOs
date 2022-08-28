@@ -4,8 +4,7 @@
 For this project we are presenting a dataset of UFO sightings using JavaScript and HTML and allowing users to filter the data with various datapoints to narrow down the search results.
 
 ## Instructions for Use
-From the main page of the site users are presented with a complete table of our data set. On the left hand side of the page, there is a filters form that allows for the input
-of multiple filters: Date, City, State, Country, and Shape. 
+From the main page of the site users are presented with a complete table of our data set. On the left hand side of the page, there is a filters form that allows for the input of multiple filters: Date, City, State, Country, and Shape. The filter requires an exact match for the table data (case sensitive)
 
 ![filters](https://github.com/Ian-T-Dixon/UFOs/blob/main/static/images/filters.PNG)
 
